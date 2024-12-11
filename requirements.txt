@@ -1,10 +1,9 @@
-beautifulsoup4
-dask
-dask-expr
 pandas
+SQLAlchemy
+beautifulsoup4
 requests
 bs4
-SQLAlchemy
 wget
 parfive
-pymysql
+pandas
+psycopg2-binary
